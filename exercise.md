@@ -9,8 +9,9 @@ In this lab we will:
 4. Clone your repository on your computer
 4. Add your name to `index.html`: this can be text, a link, an image...
 5. Commit your changes back to your repository
+6. Enable GitHub pages to publish your page
 
-### Part II (Collaboration)
+### Part II (Collaboration) (optional)
 1. Merge *upstream* changes into your repository
 2. Publish the repository as a website
 3. Create a *pull request* in the original repository
